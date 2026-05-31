@@ -1,9 +1,9 @@
 [package]
-name = "security_bot"
+name = "security-bot"
 version = "0.1.0"
 edition = "2021"
 [[bin]]
-name = "security_bot"
+name = "security-bot"
 path = "src/main.rs"
 [dependencies]
 serenity = { version = "0.11.7", default-features = false, features = [
